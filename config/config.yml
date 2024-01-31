@@ -1,0 +1,6 @@
+server:
+  port: 8080
+api:
+  endPoint: "https://pokeapi.co/api/v2/"
+  serviceKey: 
+  operation: "berry-firmness/"
